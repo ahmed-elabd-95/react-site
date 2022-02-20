@@ -61,7 +61,7 @@ const ComponentApp = () => {
   };
 
   const filterNames = (name) => {
-    setFilter(name);
+    setFilter(name); 
   };
   const filterHandler = () => {
     if (filter.length !== 0) {
