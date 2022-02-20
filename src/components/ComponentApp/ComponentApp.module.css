@@ -1,0 +1,17 @@
+.mainContainer{
+    width: 100%;
+}
+.show {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  .hide {
+    display: none;
+  }
+  
+  .rowButtons {
+    display: flex;
+    justify-content: center;
+  }
+  
