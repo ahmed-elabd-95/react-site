@@ -73,7 +73,7 @@ const ComponentApp = () => {
   return (
     <>
       <div className={styles.mainContainer}>
-        <h1 style={{ color: "black" }}>Boys Data</h1>
+        <h1 style={{ color: "black" }}>All Data</h1>
         <Filter filteration={filterNames} />
         <div className={styles.rowButtons}>
           <Button
